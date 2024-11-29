@@ -6,5 +6,5 @@ Compilation of Python programming codes
   The project demonstrates analyses on a dataset using a logistic regression model and SVM. 
 
 ## File Structure
-  Jason - Project Assignment - 1 - bank.ipynb: The main Notebook file containing all the code and analyses.
+  Jason - 1 - Understanding Magazine Subscription Behavior.ipynb: The main Notebook file containing all the code and analyses.
 
